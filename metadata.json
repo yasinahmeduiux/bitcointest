@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Interaction Portal",
+  "description": "An elegant, interactive Bitcoin and Runecoin swap portal landing page featuring a highly functional simulated live mobile terminal mockup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
